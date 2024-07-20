@@ -1,0 +1,19 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@msgpack/msgpack": "^3.0.0-beta2",
+    "axios": "^1.7.2",
+    "base64-js": "^1.5.1",
+    "node-fetch": "^3.3.2"
+  }
+}
